@@ -1,4 +1,6 @@
 # Implementation of classic arcade game Pong
+#Must be played in CodeSkulptor. See Link below
+#http://www.codeskulptor.org/#user23_vprgYUXQ2x_16.py
 import simplegui
 import random
 # initialize globals - pos and vel encode vertical info for paddles
